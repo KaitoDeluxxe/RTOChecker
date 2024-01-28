@@ -1,4 +1,4 @@
-# RTOChecker for Windows
+# RTO Checker for Windows
 to check your connection status whether is it "Request Timed Out" or not.
 
 I made this simple program to check your connection to the internet, and you just need to double click instead typing 'ping 8.8.8.8 -t' to the command prompt,
